@@ -70,9 +70,3 @@ Como o projeto é puramente frontend (HTML, CSS e JS), não é necessário um se
 **Leo Sousa**
 *   Desenvolvido como atividade para o curso Fullstack SENAI.
 
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://opensource.org/licenses/MIT) (a ser criado) para mais detalhes.
-
----
-*Este README foi gerado automaticamente por Manus AI.*
