@@ -39,11 +39,18 @@ Atividade-pagina-index-login/
 │   └── estilo.css        # Estilos CSS personalizados
 ├── img/
 │   ├── logo.png          # Logo da loja
-│   ├── banner1.jpg       # Imagens do carrossel
-│   ├── banner2.jpg
-│   └── banner3.jpg
+│   ├── banner1.png       # Imagens do carrossel
+│   ├── banner2.png       # Imagem dos jogos mais vendidos
+│   │── banner3.png
+│   │── jogo1.png
+│   │── jogo2.png
+│   │── jogo3.jpg
+│   └── logo.png
+
 ├── js/
-│   └── (arquivos JS personalizados, se houver)
+│   │── jquery-script.js
+│   └── script.js
+
 ├── index.html            # Página inicial (Home)
 └── login.html            # Página de login
 ```
